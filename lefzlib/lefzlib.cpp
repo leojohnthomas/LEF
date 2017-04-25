@@ -33,7 +33,7 @@
 #include <limits.h>
 #include <sys/types.h>
 #include <sys/stat.h>
-#include "zlib.h"
+#include "../include/zlib.h"
 #include "lefzlib.hpp"
 #include "lefrReader.hpp"
 
