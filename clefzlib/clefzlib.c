@@ -28,7 +28,7 @@
 #include <limits.h>
 #include <sys/types.h>
 #include <sys/stat.h>
-#include "../include/zlib.h"
+#include "zlib.h"
 #include "lefzlib.h"
 #include "lefrReader.h"
 
